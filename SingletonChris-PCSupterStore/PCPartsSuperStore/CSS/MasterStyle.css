@@ -1,0 +1,590 @@
+﻿/****************************WebEMail*************************/
+
+    .WMAddress { margin-left: 5px; }
+
+    .fieldsetWebMail { border-radius: 5px;
+                       width: 585px;
+                       height: auto;
+                       color: black;
+                       font-size: 21px;
+                     }
+
+    .legendWM { font-size: 24px; 
+                color: darkgreen; 
+                font-weight: bold;
+              }
+
+    .formWebMail { background-color: #FAF0E6; 
+			       font-family: Calibri, San-Serif, Helvetica;
+			       width: 625px; 
+                   height: auto;
+			       border: 3px solid rgba(255,255,255,.8);
+			       border-style: outset;
+			       border-radius: 25px;
+			       margin: 25px auto;
+			       padding: 25px; 
+		         }
+
+/****************************newProduct*************************/
+
+    #lbl1_prodDesc { position: relative;
+                     margin-right: 5px; 
+                   }
+
+    .UpdateUserInfoNP { position: absolute; 
+                        font-size: 24px; 
+                        margin-left: -155px; 
+                        margin-top: 380px; 
+                        color: darkblue;}
+
+    .UpdateUserInfoNP:visited { color:mediumorchid; } 
+
+    .BoxStyleNP { height: 21px;
+                width: 225px;
+                margin-top: 4px;
+                margin-left: 5px;
+                color: red;
+                border-color: rgba(0,0,139,.9); 
+              }
+
+    .BoxStyleNP:hover { box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05) inset, 0px 0px 8px rgba(82, 168, 236, 0.6); }
+
+
+    #fieldset1NP { border-radius: 5px;
+                 width: 715px;
+                 height: 230px;
+                 font-weight: bold;
+                 color: #4682B4;
+                 font-size: 21px;
+               }
+
+    .flexTBoxesWrapper { position: relative;
+                         display: inline-flex;
+                       }
+
+    .LabelStyleNP { position: relative;
+                  font-size: 25px;
+                  color: #4682B4;
+                 }
+
+    #formNP { background-color: #FAF0E6; 
+			font-family: Calibri, San-Serif, Helvetica;
+			width: 755px; 
+			height: 258px;
+			border: 3px solid rgba(255,255,255,.8);
+			border-style: outset;
+			border-radius: 25px;
+			margin: 25px auto;
+			padding: 25px; 
+		  }
+
+    .legendNP { color: red;
+                font-size: 25px;
+              }
+
+    span { color: darkblue;
+           font-size: 25px; 
+         }
+
+    .submitButton { position: relative;
+                    height: 28px;
+                    width: 125px;
+                    margin-top: 18px;
+                    margin-bottom: 8px;
+                    background: rgba(0,125,0,.9);
+				    margin-right: 20px;
+					color: rgba(255,255,255,1);
+				    border-color: rgba(158,202,237,1);
+					border-radius: 8px;
+					box-shadow: 0 0 10px rgba(158,202,237,1);
+					outline: none;
+                    cursor: pointer;
+                  }
+
+/**************************OneClickBuy*************************/
+
+    .UpdateUserInfoOCB { position: absolute; 
+                         font-size: 24px; 
+                         margin-left: -155px; 
+                         margin-top: 380px; 
+                         color: darkblue; 
+                       }
+
+    .UpdateUserInfoOCB:visited { color:mediumorchid; } 
+
+    .fieldsetOCB { border-radius: 5px;
+                 width: 585px;
+                 height: auto;
+                 color: black;
+                 font-size: 21px;
+               }
+
+    #legendOCB { font-size: 24px; 
+              color: darkgreen; 
+              font-weight: bold;
+            }
+
+    #formOCB { background-color: #FAF0E6; 
+			font-family: Calibri, San-Serif, Helvetica;
+			width: 625px; 
+            height: auto;
+			border: 3px solid rgba(255,255,255,.8);
+			border-style: outset;
+			border-radius: 25px;
+			margin: 25px auto;
+			padding: 25px; 
+		  }
+
+    spanOCB { font-size: 24px; 
+           color: cornflowerblue; 
+           font-weight: bold;}
+
+/*****************************showAllProducts*******************/
+
+    .UpdateUserInfoAP { position: absolute; 
+                        font-size: 24px; 
+                        margin-left: -155px; 
+                        margin-top: 380px; 
+                        color: darkblue; 
+                      }
+
+    .UpdateUserInfoAP:visited { color: mediumorchid; }
+
+    #fieldsetSAP { border-radius: 5px;
+                 width: 785px;
+                 height: auto;
+                 font-weight: bold;
+                 color: #4682B4;
+                 font-size: 21px;
+               }
+
+    #formSAP { background-color: #FAF0E6; 
+			font-family: Calibri, San-Serif, Helvetica;
+			width: 825px; 
+            height: auto;
+			border: 3px solid rgba(255,255,255,.8);
+			border-style: outset;
+			border-radius: 25px;
+			margin: 25px auto;
+			padding: 25px; 
+		  }
+
+    .headCells { border: 1px solid white;
+                 background-color: darkolivegreen;
+                 color: darkseagreen;
+                 text-align: center;
+                 width: 150px;
+               }
+
+    .headCellDesc { border: 1px solid white;
+                    background-color: darkolivegreen;
+                    color: darkseagreen;
+                    text-align: center;
+                    width: 295px;
+                  }
+
+    .headCellBuyIt { border: 1px solid white;
+                     background-color: darkolivegreen;
+                     color: darkseagreen;
+                     text-align: center;
+                     width: 165px;
+                   }
+
+    .cells { border: 1px solid black; 
+             background-color: darkseagreen; 
+             padding: 10px;
+           }
+
+    .legendSAP { color: darkgreen;
+             font-size: 25px;
+           }
+
+/********************************ShowUserLogInInfo*************************/
+
+    .fieldset2SULII { border-radius: 5px;
+                 color: #4682B4;
+                 font-weight: bold;  
+                 font-size: 21px;
+                 margin-left: 8px;
+                 width: 495px;
+               }
+
+    spanSULII { color: red;
+           font-weight: bold;
+           font-size: 21px;
+         }
+
+    .ResultTextStyleSULII { position: relative;
+                            color: red;
+                          }
+
+    #lbl_Identity { color: #4682B4; }
+
+    .fieldset1SULII { border-radius: 5px;
+                 width: 595px;
+                 height: 225px;
+                 font-weight: bold;
+                 color: #4682B4;
+                 font-size: 21px;
+                 margin-left: 8px;
+               }
+
+    #formSULII { background-color: #FAF0E6; 
+			font-family: Calibri, San-Serif, Helvetica;
+			width: 645px; 
+			height: 365px;
+			border: 3px solid rgba(255,255,255,.8);
+			border-style: outset;
+			border-radius: 25px;
+			margin: 25px auto;
+			padding: 50px; 
+		  }
+
+    .flexLabelsWrapper { position: relative;
+                         display: inline-flex;
+                       }
+
+    .TextLabelsSULII { color: #4682B4;
+                  font-weight: bold;
+                  margin-right: 5px;
+                }
+
+    #lbl_PhoneNumber { margin-right: 5px;}
+
+    .legendSULII { color: red;
+                   font-size: 25px;
+                 }
+
+    .body { background-color: white;
+            background-image: url('../img/X10DAX.png');
+            background-repeat: repeat;
+            font-family: Calibri, San-Serif, Helvetica, Arial;
+          }
+
+/******************************UserUpdatedShowInfo************************/ 
+
+    #fieldset2UUSI { border-radius: 5px;
+                 color: #4682B4;
+                 font-weight: bold;  
+                 font-size: 21px;
+                 margin-left: 8px;
+                 width: 495px;
+               }
+
+    spanUUSI { color: red;
+               font-weight: bold;
+               font-size: 25px;
+             }
+
+    .ResultTextStyleUUSI { position: relative;
+                           color: red; font-size: 25px;
+                           margin-left: 25px;
+                     }
+    #lbl_Identity { color: #4682B4; }
+
+    #fieldset1UUSI { border-radius: 5px;
+                 width: 595px;
+                 height: 225px;
+                 font-weight: bold;
+                 color: #4682B4;
+                 font-size: 21px;
+                 margin-left: 8px;
+               }
+
+    #formUUSI { background-color: #FAF0E6; 
+			font-family: Calibri, San-Serif, Helvetica;
+			width: 645px; 
+			height: 345px;
+			border: 3px solid rgba(255,255,255,.8);
+			border-style: outset;
+			border-radius: 25px;
+			margin: 25px auto;
+			padding: 50px; 
+		  }
+
+    .flexLabelsWrapper { position: relative;
+                         display: inline-flex;
+                       }
+
+    .TextLabelsUUSI { color: #4682B4;
+                  font-weight: bold;
+                  margin-right: 5px;
+                }
+
+    .legendUUSI { color: red;
+             font-size: 25px;
+           }
+
+    body { background-color: white;
+           background-repeat: repeat;
+           font-family: Calibri, San-Serif, Helvetica, Arial;
+         }
+
+    /***************************UpdateUserLogIn**********************/
+   
+    #lbl1_PhoneNumber { position: relative;
+                        margin-right: 5px; 
+                      }
+
+    .BoxStyleUULI { height: 21px;
+                width: 265px;
+                margin-top: 4px;
+                color: red;
+                border-color: rgba(0,0,139,.9); 
+              }
+
+    .BoxStyleUULI:hover { box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05) inset, 0px 0px 8px rgba(82, 168, 236, 0.6); }
+
+    #fieldsetUULI { border-radius: 5px;
+                 width: 450px;
+                 height: 285px;
+                 font-weight: bold;
+                 color: #4682B4;
+                 font-size: 21px;
+                 margin-left: 8px;
+               }
+
+    .flexTBoxesWrapper { position: relative;
+                         display: inline-flex;
+                       }
+
+    .LabelStyleUULI { position: relative;
+                  font-size: 25px;
+                  color: #4682B4;
+                 }
+
+    #formUULI { background-color: #FAF0E6; 
+			font-family: Calibri, San-Serif, Helvetica;
+			width: 500px; 
+			height: 345px;
+			border: 3px solid rgba(255,255,255,.8);
+			border-style: outset;
+			border-radius: 25px;
+			margin: 25px auto;
+			padding: 50px; 
+		  }
+
+    #legendUULI { color: red;
+             font-size: 25px;
+
+           }
+
+    /*****************************MakeUserLogIn************************/
+
+    #lbl1_PhoneNumber { position: relative;
+                        margin-right: 5px; 
+                      }
+
+    .BoxStyleMULI { height: 21px;
+                width: 265px;
+                margin-top: 4px;
+                color: red;
+                border-color: rgba(0,0,139,.9);
+                margin-left: 5px; 
+              }
+
+    .BoxStyleMULI:hover { box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05) inset, 0px 0px 8px rgba(82, 168, 236, 0.6); }
+
+    .fieldsetMULI { border-radius: 5px;
+                 width: 450px;
+                 height: 285px;
+                 font-weight: bold;
+                 color: #4682B4;
+                 font-size: 21px;
+                 margin-left: 8px;
+               }
+
+    .flexTBoxesWrapper { position: relative;
+                         display: inline-flex;
+                       }
+
+    .LabelStyleMULI { position: relative;
+                      font-size: 25px;
+                      color: #4682B4;
+                    }
+
+    #formMULI { background-color: #FAF0E6; 
+			font-family: Calibri, San-Serif, Helvetica;
+			width: 500px; 
+			height: 320px;
+			border: 3px solid rgba(255,255,255,.8);
+			border-style: outset;
+			border-radius: 25px;
+			margin: 25px auto;
+			padding: 50px; 
+		  }
+
+    .LegendMULI { color: red;
+             font-size: 25px;
+           }
+
+    /*************************Index*************************/
+
+    .BoxStyleLogIn { height: 21px;
+                     width: 125px;
+                     margin-top: 4px;
+                     color: red;
+                     border-color: rgba(0,0,139,.9); 
+                   }
+
+    #formLogIn { position: absolute;
+                 margin-top: 270px;
+
+               }
+    .BoxStyleLogIn:hover { box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05) inset, 0px 0px 8px rgba(82, 168, 236, 0.6); }
+
+    .SignInPos { position: relative;
+                 background-color: white; 
+			     font-family: Calibri, San-Serif, Helvetica;
+                 padding-top: 8px;
+			     width: 135px; 
+			     height: 115px;
+			     border-radius: 25px;
+                 padding-left: 5px;
+                 margin-left: 13px;
+                 border: solid;
+		       }
+
+    .WelcomeUser { position: absolute; 
+                   margin-left: 25px; 
+                   font-size: 24px;
+                   color: darkblue;
+                 }
+
+    spanIndex { color: cornflowerblue; }
+
+    #formLogIn { position: absolute; }
+
+    #txb_SignInUName { margin-bottom: 3px;}
+
+    #txb_SignInPWord { margin-bottom: 5px; }
+
+    .submitButtonLogIn { position: relative;
+                    height: 28px;
+                    width: 125px;
+                    margin-top: 18px;
+                    margin-bottom: 8px;
+                    background: rgba(0,125,0,.9);
+				    margin-right: 20px;
+					color: rgba(255,255,255,1);
+				    border-color: rgba(158,202,237,1);
+					border-radius: 8px;
+					box-shadow: 0 0 10px rgba(158,202,237,1);
+					outline: none;
+                    cursor: pointer;
+                  }
+
+/**********************BaseStyle**********************/
+
+    #header { border: solid; 
+             color: black; 
+             border-radius: 25px; 
+             height: 225px;
+             background-image: url('../img/Header.png');
+             background-clip: border-box;
+           }
+
+     .LabelHeaderText { position: relative;
+                       color: white; 
+                       font-size: 50px; 
+                       font-weight: bold;
+                      }
+
+    .SubHeaderTxt { position: relative;
+                    color: white; 
+                    font-size: 36px; 
+                    font-weight: bold; 
+                  }
+
+    .HeaderText { margin-top: 45px; 
+                  text-shadow: 2px 2px #ff0000;
+                }
+
+    #newProducts { position: absolute; 
+                  font-size: 24px; 
+                  margin-left: 25px; 
+                  margin-top: 45px;
+                  color: darkblue;
+                  font-size: 24px;
+                  cursor: pointer;
+                 }
+
+    #newProducts:visited { color: mediumorchid; }
+
+
+    #Products { position: absolute;
+                font-size: 24px;
+                margin-left: 25px;
+                margin-top: 55px;
+                color: darkblue;
+                font-size: 24px;
+                cursor: pointer;
+              }
+
+    #Products:visited { color: mediumorchid; }
+
+    #Sale { position: absolute; 
+            font-size: 24px; 
+            margin-left: 25px; 
+            margin-top: 65px;
+            color: darkblue;
+            font-size: 24px;
+            cursor: pointer;
+          }
+
+    #Featured { position: absolute; 
+                font-size: 24px; 
+                margin-left: 25px; 
+                margin-top: 75px;
+                color: darkblue;
+                font-size: 24px;
+                cursor: pointer;
+              }
+
+    #Navigation { position: relative; 
+                  float: left;
+                  border: solid; 
+                  border-color: black; 
+                  width: 175px;
+                  min-height: 605px;
+                  border-radius: 25px; 
+                  background-color: darkgreen; 
+                }
+
+    .SignUp { position: absolute; 
+              font-size: 24px; 
+              margin-left: -155px; 
+              margin-top: 405px;
+              color: darkblue;
+            }
+
+    .SignUp:visited { color:mediumorchid; } 
+
+    .UpdateUserInfo { position: absolute; 
+                      font-size: 24px; 
+                      margin-left: -155px; 
+                      margin-top: 405px; 
+                      color: darkblue; }
+
+    #footer { text-align: left;
+              clear: both;
+	          padding-left: 65px;
+              padding-bottom: 10px;
+              height: 45px;
+		      color: white;
+              border: solid;
+              border-color: black;
+              background-color: darkgreen;
+              border-color: black;
+              border-radius: 25px;
+              background-clip: border-box;
+            }
+
+    .rights		{ float: right;
+				  padding-right: 65px;
+				  color: white;
+            	}
+
+    a { color: darkblue; }
+
+    .footerText { position: relative; }

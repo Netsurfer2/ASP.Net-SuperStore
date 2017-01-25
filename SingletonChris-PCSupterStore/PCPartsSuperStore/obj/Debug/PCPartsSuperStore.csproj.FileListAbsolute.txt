@@ -1,0 +1,80 @@
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\csc.exe
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\vbc.exe
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\VBCSCompiler.exe
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\PCPartsSuperStore.dll.config
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\PCPartsSuperStore.dll
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\PCPartsSuperStore.pdb
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\obj\Debug\PCPartsSuperStore.dll
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\obj\Debug\PCPartsSuperStore.pdb
+C:\Prog117\MasterPage\PCPartsSuperStore\PCPartsSuperStore\obj\Debug\PCPartsSuperStore.csprojResolveAssemblyReference.cache
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\csc.exe
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\vbc.exe
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\VBCSCompiler.exe
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\PCPartsSuperStore.dll.config
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\PCPartsSuperStore.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\PCPartsSuperStore.pdb
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\obj\Debug\PCPartsSuperStore.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\obj\Debug\PCPartsSuperStore.pdb
+C:\Prog117\Week9 Phase8 (MasterPage)\PCPartsSuperStore\PCPartsSuperStore\PCPartsSuperStore\obj\Debug\PCPartsSuperStore.csprojResolveAssemblyReference.cache
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\roslyn\csc.exe
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\roslyn\vbc.exe
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\roslyn\VBCSCompiler.exe
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\PCPartsSuperStore.dll.config
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\PCPartsSuperStore.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\PCPartsSuperStore.pdb
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\obj\Debug\PCPartsSuperStore.dll
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\obj\Debug\PCPartsSuperStore.pdb
+C:\Prog117\Week9 Phase8 (MasterPage)\SingletonChris-Phase08\PCPartsSuperStore\obj\Debug\PCPartsSuperStore.csprojResolveAssemblyReference.cache
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\roslyn\csc.exe
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\roslyn\vbc.exe
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\roslyn\VBCSCompiler.exe
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\PCPartsSuperStore.dll.config
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\PCPartsSuperStore.dll
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\PCPartsSuperStore.pdb
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\obj\Debug\PCPartsSuperStore.csprojResolveAssemblyReference.cache
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\obj\Debug\PCPartsSuperStore.dll
+C:\Prog117\Week10 Phase9 (optional)\SingletonChris-Phase09\PCPartsSuperStore\obj\Debug\PCPartsSuperStore.pdb

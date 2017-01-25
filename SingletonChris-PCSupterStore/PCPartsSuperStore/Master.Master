@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="PCPartsSuperStore.Master" %>
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>PC Super Store</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="CSS/MasterStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <%--Header--%>
+    <div id="header" runat="server">
+        <div class="HeaderText" style="text-align: center" runat="server" >
+            <asp:Label ID="lbl_HeaderText" Cssclass="LabelHeaderText" runat="server" >Advanced Computer Systems Company</asp:Label><br />
+            <asp:Label ID="lbl_SubHeaderText" CssClass="SubHeaderTxt" runat="server" >"Where the future of innovations are yours!"</asp:Label>
+        </div>
+    </div>
+    <%--Navigation--%>
+    <div id="Navigation" runat="server">
+        <asp:HyperLink ID="newProducts" Cssclass="MasterLinks" runat="server" NavigateUrl ="~/productManagement/newProduct.aspx" ToolTip="New Products" Text="New Products" ></asp:HyperLink><br /><br />
+        <asp:HyperLink ID="Products" Cssclass="MasterLinks" runat="server" NavigateUrl ="~/shopping/showAllProducts.aspx" ToolTip="Products">Products</asp:HyperLink><br /><br />
+        <asp:HyperLink ID="Sale" Cssclass="MasterLinks" runat="server" ToolTip="Sale">Sale</asp:HyperLink><br /><br />
+        <asp:HyperLink ID="Featured" Cssclass="MasterLinks" runat="server" ToolTip="Featured">Featured</asp:HyperLink><br />
+    </div>
+    <%--Main Content--%>
+    <div  id="Main" runat="server"> 
+        <asp:ContentPlaceHolder ID="cpd_Main" runat="server">
+
+
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <%--footer--%>
+    <div  id="footer" runat="server">
+        <div class="footerText">
+	        <h3 class="footer"><strong>Advanced Computer Systems Company &nbsp;
+	        <a href="mailto:chris.singleton@bellevuecollege.edu">Contact: Send an Email</a>
+	        <span class="rights">&copy;All Rights Reserved 2016</span></strong></h3>
+        </div>
+    </div>
+</body>
+</html>
